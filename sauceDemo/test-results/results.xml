@@ -1,0 +1,13 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="7.554329">
+<testsuite name="tests\inventory.spec.ts" timestamp="2025-04-04T18:01:38.422Z" hostname="chromium" tests="1" failures="0" skipped="0" time="4.829" errors="0">
+<testcase name="Verify sorting functionality on inventory page" classname="tests\inventory.spec.ts" time="4.829">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|tests-inventory-Verify-sor-a7e0e-tionality-on-inventory-page-chromium\test-finished-1.png]]
+
+[[ATTACHMENT|tests-inventory-Verify-sor-a7e0e-tionality-on-inventory-page-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
